@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20160915</CreaDate><CreaTime>16203200</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.3\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\HillShade" Date="20160915" Time="162032">HillShade DEMClip11.tif "C:\Users\David\Desktop\GIS in the Rockies\materials2\CaseStudy1\slope" 315 45 NO_SHADOWS 1</Process></lineage></DataProperties></Esri></metadata>
